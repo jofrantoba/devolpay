@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="devol">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.devol.client.devol' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/devol/greet" class="com.devol.client.server.GreetingServiceImpl" />
+
+</module>

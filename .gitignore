@@ -1,3 +1,9 @@
+/devolpayclient/target/
+/devolpayengine/target/
+/devolpayserver/target/
+/devolpayclient/.settings/
+/devolpayengine/.settings/
+/devolpayserver/.settings/
 # Compiled class file
 *.class
 
