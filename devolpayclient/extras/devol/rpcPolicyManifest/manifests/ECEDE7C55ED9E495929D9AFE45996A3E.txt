@@ -1,2 +1,0 @@
-serviceClass: com.devol.client.client.GreetingService
-path: 470E44F7FBDFCC73A8043FFA90A645B6.gwt.rpc
