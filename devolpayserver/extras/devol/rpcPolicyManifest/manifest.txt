@@ -1,3 +1,0 @@
-# Module devol
-# RPC service class, partial path of RPC policy file
-com.devol.server.client.GreetingService, DFE95973BE48AC4140924E13904AAE9A.gwt.rpc
