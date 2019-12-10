@@ -1,6 +1,8 @@
 /devolpayclient/target/
+/devolpayclient/extras/
 /devolpayengine/target/
 /devolpayserver/target/
+/devolpayserver/extras/
 /devolpayclient/.settings/
 /devolpayengine/.settings/
 /devolpayserver/.settings/
